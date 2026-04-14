@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+    background-color:steelblue;
+}
+
+#container {
+    width:90%;
+    margin:auto;
+    background-color:lightsteelblue;
+    padding: 12px;
+    border-radius: 9px;
+}
+
+hr {
+    border: 2px steelblue solid;
+}
+
+.pic {
+    height: 200px; margin: 9px; 
+    border-radius: 25px;
+}
